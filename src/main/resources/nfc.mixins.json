@@ -29,7 +29,8 @@
     "graphics.BlockRendererManagerMixin",
     "FenceBlockMixin",
     "SaplingBlockMixin",
-    "SlabBlockItemMixin"
+    "SlabBlockItemMixin",
+    "SlabBlockMixin"
   ],
   "server": [
   ],
